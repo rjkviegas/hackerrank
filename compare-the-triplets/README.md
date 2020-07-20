@@ -21,6 +21,8 @@ Given a and b, determine their respective comparison points
 compareTriplets([5, 6, 7], [3, 6, 10]) # => [1, 1]
 
 compareTriplets([17, 28, 30], [99, 16, 8]) # => [2, 1]
+```
+
+Challenge completed.
 
 
-|          Input  |    Output     |
