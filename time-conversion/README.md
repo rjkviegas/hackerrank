@@ -25,6 +25,13 @@ Convert and print the given time in -hour format,
 ### Input/Output
 Input   |   Output
 
+08:00:00AM  | 08:00:00
+01:00:00PM  | 13:00:00
+07:05:45PM  | 19:05:45
+
 12:00:00AM  | 00:00:00
+12:00:01AM  | 00:00:01
 12:00:00PM  | 12:00:00
 07:05:45PM  | 19:05:45
+
+SOLVED
